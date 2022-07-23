@@ -1,0 +1,28 @@
+*{
+    background: rebeccapurple;
+}
+.list{
+    background: rgb(155, 24, 24);
+    text-align: center;
+    padding: 5px;
+    color: white;
+}
+
+#caja{
+    background: blueviolet;
+    margin: 2rem;
+    padding: 2rem;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+input{
+    width: 80%;
+    height: 30%;
+    margin: 10px;
+    color: black;
+    background: rgb(0, 255, 255);
+    border: none;
+    cursor: pointer;
+    font-size: 25px;
+}
